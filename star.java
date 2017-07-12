@@ -1,3 +1,4 @@
+
 public class star {
 	
 
@@ -20,7 +21,7 @@ public class star {
 			}
 			System.out.print("\n");
 		}
-		
+		// new
 
 	}
 
